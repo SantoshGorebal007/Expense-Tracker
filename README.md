@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=I%20Am%20Santosh&section=header&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlign=50&textBg=false&desc=The%20Dev&fontAlignY=35&descSize=61&descAlignY=68&descAlign=69)
+
 # Expense Tracker (Vite + React)
 
 This workspace contains React + TypeScript mockups and UI components.
