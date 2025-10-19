@@ -34,7 +34,7 @@ export function SettingsMockup() {
                   <div>
                     <label className="text-sm text-gray-600">Full Name</label>
                     <div className="mt-1 p-2 bg-gray-50 rounded-lg border text-gray-900">
-                      Sarah Anderson
+                      Santosh Kumar
                     </div>
                   </div>
                   <div>
