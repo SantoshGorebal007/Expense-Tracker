@@ -57,8 +57,7 @@ Settings
 
 ![Settings preview](./Preview/setting.png)
 
-## Video review
-[![Watch Preview](./Preview/Home.png)](./Preview/preview.mp4)
+
 
 
 
@@ -69,7 +68,7 @@ Settings
 1. Run the app locally:
 
 ```powershell
-Set-Location -LiteralPath 'D:\APP Dev\Expense Tracker'
+Set-Location -LiteralPath 'D:\APP Dev\Expense Tracker'  
 npm.cmd run dev
 ```
 
