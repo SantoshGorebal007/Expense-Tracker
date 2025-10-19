@@ -58,13 +58,11 @@ Settings
 ![Settings preview](./Preview/setting.png)
 
 ## Video review
+[![Watch Preview](./Preview/Home.png)](./Preview/preview.mp4)
 
-Below is a placeholder for a short review video. Replace `./assets/review.mp4` with your recorded review file (MP4 preferred) or update the path to a hosted video (YouTube/Vimeo).
 
-<video controls width="720" poster="./Preview/Home.png">
-	<source src="./Preview/preview.mp4" type="video/mp4">
-	Your browser does not support the video tag. You can replace this with a link to YouTube or a direct mp4 file in the `assets/` folder.
-</video>
+
+
 
 ### How to create the review video
 
